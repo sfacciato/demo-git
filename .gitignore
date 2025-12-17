@@ -1,0 +1,7 @@
+# file .txt della cartella esclusa dalla repository
+temp/cache/*.txt
+
+# file con estensione .log esclusi dalla repository
+*.log
+# eccezione di file da aggiungere alla repository
+!debug.log
